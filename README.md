@@ -50,4 +50,6 @@ HubTaxi: Server Side
   ![client3](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/client3.png)
 
 === 
-Author: Tungtouch at tungnguyen@vsoft.vn and NgaNguyenDuy at kyo1508@gmail.com
+Author: 
+- Tungtouch at tungnguyen@vsoft.vn
+- NgaNguyenDuy at kyo1508@gmail.com
