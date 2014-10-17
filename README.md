@@ -1,6 +1,17 @@
 HubTaxi: Server Side
 ===
 
+### Technology use:
+- Serverside:
+  - Node.js 
+  - Expressjs
+  - MongoDB (mongoose)
+  - Socket.io
+- Clientside:
+  - Angularjs Framework.
+  - Bootstrap Twitter.
+  - Phonegap, cordova and ionic framework. (for hybrid app)
+
 ### Setup:
 - Clone this repo to your local machine by: `git clone https://github.com/vsoft-lab/HubTaxi-Server`.
 - Okay, after clone it, you can install all dependencies by type: `npm install` on your terminal.
