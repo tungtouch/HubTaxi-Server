@@ -1,32 +1,37 @@
 {
-  "name": "vframework",
-  "version": "0.0.1",
-  "private": true,
-  "scripts": {
-    "start": "coffee server.coffee"
-  },
-  "dependencies": {
-    "async": "*",
-    "cli-color": "*",
-    "connect": "2.14.3",
-    "connect-redis": "1.5.0",
-    "cookie": "0.1.1",
-    "crypto": "0.0.3",
-    "excel-export": "^0.3.11",
-    "express": "3.5.1",
-    "jugglingdb": "0.2.13",
-    "jugglingdb-redis": "0.0.2-2",
-    "jwt-simple": "0.2.0",
-    "mongoose": "3.6",
-    "node-uuid": "1.4.1",
-    "nodemailer": "^0.7.0",
-    "passport": "0.2.0",
-    "passport-facebook": "1.0.3",
-    "passport-local": "1.0.0",
-    "redis": "0.10.1",
-    "socket.io": "0.x",
-    "underscore": "*",
-    "winston": "0.7.3",
-    "winston-mongodb": "0.4.3"
-  }
+    "name": "vframework",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:vsoft-lab/HubTaxi-Server.git"
+    },
+    "author": "NgaNguyenDuy",
+    "dependencies": {
+        "async": "*",
+        "cli-color": "*",
+        "connect": "2.14.3",
+        "connect-redis": "1.5.0",
+        "cookie": "0.1.1",
+        "crypto": "0.0.3",
+        "excel-export": "^0.3.11",
+        "express": "3.5.1",
+        "jugglingdb": "0.2.13",
+        "jugglingdb-redis": "0.0.2-2",
+        "jwt-simple": "0.2.0",
+        "mongoose": "3.6",
+        "node-uuid": "1.4.1",
+        "nodemailer": "^0.7.0",
+        "passport": "0.2.0",
+        "passport-facebook": "1.0.3",
+        "passport-local": "1.0.0",
+        "redis": "0.10.1",
+        "socket.io": "0.x",
+        "underscore": "*",
+        "winston": "0.7.3",
+        "winston-mongodb": "0.4.3"
+    }
 }
