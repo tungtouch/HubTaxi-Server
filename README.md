@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/vsoft-lab/HubTaxi-Server.png?label=ready&title=Ready)](https://waffle.io/vsoft-lab/HubTaxi-Server)
 HubTaxi: Server Side
 ===
 
