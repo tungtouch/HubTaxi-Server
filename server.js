@@ -194,9 +194,12 @@
     /*
      (13.1) Login and Registration routing
      */
+    app.use(express.static(__dirname + '/public'));
 
 
-
+    app.get('/', function(req, res) {
+        res.sendfile('index.html');
+    });
 
     app.post('/logout', User.logout);
 
