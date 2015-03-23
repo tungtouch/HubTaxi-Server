@@ -23,7 +23,6 @@ phases. As a result, we had to cancel the project in July, 2014.
 Even the project failed, I still didn’t want to waste the efforts of people who participated in this project. 
 
 So I came to a decision that *"I will share this project in Github for everybody to learn from"*.  Of course at 
-
 that time I didn’t have any intention to continue the project.
 
 But now with the new incentive and refreshment of mind, I want to have a strategic partner who will 
