@@ -64,7 +64,7 @@ HubTaxi: Server Side
 ### Reference :
 - Manager:
   - Source code: `https://github.com/vsoft-lab/HubTaxi-Client/tree/master/manager`
-  - Demo: `http://vsoft.vn/hubtaxi/manager/#/main` - User: `demo` | Password: `demo`
+  - Demo: `http://103.232.121.63/taxi/webapp/manager/#/main` - User: `admin` | Password: `admin`
   - Some screenshot:
   Login:
   ![login](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/login.png)
@@ -77,7 +77,7 @@ HubTaxi: Server Side
 
 - Driver: 
   - Source code: `https://github.com/vsoft-lab/HubTaxi-Client/tree/master/driver`
-  - Demo: `http://vsoft.vn/hubtaxi/driver/#/`
+  - Demo: `http://103.232.121.63/taxi/webapp/driver/#/` user/pass: 30h-9999/123123
   - Screenshot:
 
   ![driver1](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/driver1.png)
@@ -90,7 +90,7 @@ HubTaxi: Server Side
   
 - Client: 
   - Source code: `https://github.com/vsoft-lab/HubTaxi-Client/tree/master/client`
-  - Demo: `http://vsoft.vn/hubtaxi/client/#/home`
+  - Demo: `http://103.232.121.63/taxi/webapp/client/#/home`
   - Screenshot:
 
   ![client1](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/client1.png)
