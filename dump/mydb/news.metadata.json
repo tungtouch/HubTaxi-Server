@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"mydb.news"},{"v":1,"key":{"published":1},"name":"published_1","background":true,"safe":null,"ns":"mydb.news"}]}

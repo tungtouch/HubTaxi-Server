@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"mydb.drivers"},{"v":1,"key":{"fullname":1},"name":"fullname_1","ns":"mydb.drivers","background":true,"safe":null}]}

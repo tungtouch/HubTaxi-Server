@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"mydb.sites"},{"v":1,"key":{"name":1},"name":"name_1","ns":"mydb.sites","background":true,"safe":null},{"v":1,"key":{"createdTime":1},"name":"createdTime_1","ns":"mydb.sites","background":true,"safe":null},{"v":1,"key":{"admin":1},"name":"admin_1","ns":"mydb.sites","background":true,"safe":null}]}
