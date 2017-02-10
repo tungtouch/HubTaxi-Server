@@ -3,6 +3,9 @@
 HubTaxi: Server Side
 ===
 
+Notes : This is version outdate, so we don't support and maintain project. If you want build a new project please contact to me via email tungnguyen@vsoft.vn or Skype: tungtouch . Thanks !
+
+
 ### Technology use:
 - Serverside:
   - Node.js 
