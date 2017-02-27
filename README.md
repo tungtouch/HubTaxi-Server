@@ -67,4 +67,4 @@ Notes : This is version outdate, so we don't support and maintain project. If yo
   ![clientLogin](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/clientLogin.png)
 
 
-Contact me at tungnguyen@vsoft.vn || Skype: tungtouch
+Contact me at tungnguyen@vsoft.vn || Skype: `tungtouch` or `minhtai_it`
