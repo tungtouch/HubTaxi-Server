@@ -3,8 +3,7 @@
 HubTaxi: Server Side
 ===
 
-Notes : This is version outdate, so we don't support and maintain project. If you want build a new project please contact to me via email tungnguyen@vsoft.vn or Skype: tungtouch . Thanks !
-
+HubTaxi - The platform similar Uber, GrabTaxi, EasyTaxi....Willing to help people make dream comes true through building meaningful app email cunen1972@gmail.com - https://appoutsourcesolutions.com/
 
 ### Technology use:
 - Serverside:
@@ -66,5 +65,3 @@ Notes : This is version outdate, so we don't support and maintain project. If yo
   ![client3](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/client3.png)
   ![clientLogin](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/clientLogin.png)
 
-
-Contact me at tungnguyen@vsoft.vn || Skype: `tungtouch` or `minhtai_it`
