@@ -3,7 +3,7 @@
 HubTaxi: Server Side
 ===
 
-HubTaxi - The platform similar Uber, GrabTaxi, EasyTaxi....Willing to help people make dream comes true through building meaningful app email cunen1972@gmail.com - https://appoutsourcesolutions.com/
+HubTaxi - The platform similar Uber, GrabTaxi, EasyTaxi....Willing to help people make dream comes true through building meaningful app email mike@vsoft.vn
 
 ### Technology use:
 - Serverside:
